@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KhamdamYusupov
-- 👀 I’m interested in programming
+- 👀 I’m interested in Java, Spring and AWS services
 - 🌱 I’m a software engineer
 - 💞️ I’m looking to collaborate on new Java projects
 - 📫 reach me via kh.yusupov0209@gmail.com
