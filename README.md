@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KhamdamYusupov
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java
+- 🌱 I’m a software engineer
 - 💞️ I’m looking to collaborate on new Java projects
 - 📫 reach me via kh.yusupov0209@gmail.com
 
